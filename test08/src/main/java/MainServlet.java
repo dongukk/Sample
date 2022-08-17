@@ -29,6 +29,7 @@ public class MainServlet extends HttpServlet {
 		System.out.println("MainServ");
 		System.out.println("Testservlet");
 		System.out.println("Testservlet2");
+		System.out.println("Testservlet3");
 		
 	}
 
